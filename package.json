@@ -1,0 +1,23 @@
+{
+  "name": "citybuddy-final-year-project",
+  "version": "1.0.0",
+  "description": "CityBuddy - Smart Travel & Local Discovery Platform (MERN Stack)",
+  "private": true,
+  "scripts": {
+    "start": "node -e \"console.log('To run CityBuddy: use npm run dev or start backend and frontend in separate terminals.')\"",
+    "install:all": "cd backend && npm install && cd ../frontend && npm install",
+    "seed:backend": "cd backend && npm run seed"
+  },
+  "keywords": [
+    "travel",
+    "tourism",
+    "smart-travel",
+    "mern",
+    "react",
+    "nodejs",
+    "express",
+    "mongodb"
+  ],
+  "author": "lovepandey389",
+  "license": "MIT"
+}

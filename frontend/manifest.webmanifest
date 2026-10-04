@@ -1,0 +1,22 @@
+{
+  "name": "CityBuddy",
+  "short_name": "CityBuddy",
+  "description": "Discover trusted hotels, cafes, restaurants, and attractions across India.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f9fafb",
+  "theme_color": "#023047",
+  "icons": [
+    {
+      "src": "/citybuddylogo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/citybuddylogo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
